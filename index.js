@@ -7,7 +7,7 @@ say("SANBOT", {
   align: "center",
   gradient: ["red", "green"],
 });
-say("WhatsApp bot v1.0 by Muhammad Ichsan Haekal", {
+say("WhatsApp bot v1.2 by Muhammad Ichsan Haekal", {
   font: "console",
   align: "center",
   gradient: ["blue", "green"],
